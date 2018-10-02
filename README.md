@@ -23,7 +23,7 @@ Binarization function used in the experiment is deterministic binary-tanh which 
 
 Setup Dependencies
 -----
-The recommended version for running the experiments is Python3, however it works fine with Python2.
+The recommended version for running the experiments is Python3.
 
 1. Follow the installation guide on [Tensorflow Homepage][4] for installing Tensorflow-GPU or Tensorflow-CPU. 
 2. Follow instructions outlined on [Keras Homepage][5] for installing Keras.
